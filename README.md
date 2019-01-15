@@ -1,2 +1,2 @@
 # js-tdd-course
-course tdd test
+course tdd JavaScript test
